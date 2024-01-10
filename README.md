@@ -1,6 +1,6 @@
 # NutriCal:McDonald-s-Menu-Nutritional-Analysis
 
-Acknowledgment
+❖Acknowledgment
 
  I would like to express my sincere gratitude and appreciation to "Mr Abhisheik Saraswat" for helping me to understand python because of you i am able to do this project on nutritional analysis  McDonald's menu.
 
@@ -18,13 +18,13 @@ Acknowledgment
 
 
 
-Problem Statement
+❖Problem Statement
 
  McDonald's is a global fast-food chain known for its diverse menu offerings. As a data analyst, your task is to analyze the nutritional content of the menu items available at McDonald's outlets. This analysis
  will provide valuable insights into the calorie count and nutrition facts of various menu items.
 
 
-Objectives
+❖Objectives
 
       1.   Extract meaningful information from the McDonald's menu nutritional dataset.
       2.   Perform exploratory data analysis to understand the nutritional distribution and trends.
@@ -32,7 +32,7 @@ Objectives
       4.   Identify healthy and less healthy menu options based on nutritional content.
 
 
-Contents
+❖Contents
 
  (1)Introduction
 
